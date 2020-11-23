@@ -1,5 +1,6 @@
 ---
 title: A simple post
+date: '2120-11-21'
 tags:
   - demo-content
   - simple-post
