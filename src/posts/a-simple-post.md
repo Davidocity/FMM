@@ -1,5 +1,6 @@
 ---
 title: A simple post
+socialImage: /images/demo-image-2.jpg
 date: 2020-11-22T23:58:24.200Z
 tags:
   - demo-content
