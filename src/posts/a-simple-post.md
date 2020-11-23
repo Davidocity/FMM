@@ -1,11 +1,13 @@
 ---
 title: A simple post
-date: '2112-06-18'
+date: '2020-11-21'
 tags:
   - demo-content
   - simple-post
   - blog
 ---
+![The top of a grey concrete building with a blue sky in the background](/images/demo-image-1.jpg "Brutalism at its finest. Photo by Artificial Photography on Unsplash.")
+
 A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
 
 How about a `<blockquote>`?
