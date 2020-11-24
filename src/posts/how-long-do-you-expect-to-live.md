@@ -20,4 +20,4 @@ I feel that I have a lot of life to live, and I want to make the most of it. How
 
 ---
 
-1.  Rush, lyrics from Dreamline in Roll The Bones, 1991.
+1.  Rush. Lyrics to "Dreamline." [Genius](https://genius.com/Rush-dreamline-lyrics), 1991.
