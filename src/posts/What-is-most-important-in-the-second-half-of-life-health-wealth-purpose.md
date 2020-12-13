@@ -4,7 +4,7 @@ date: '2020-12-13'
 tags:
   - health
 ---
-I am a 55-year-old male, and I may be stating the obvious when I say that your quality of life will suffer if you do not have good health. This is especially true in the second half of life. My goal is to have good health until the day that I die, which I estimate to be in about 27.5 years, give or take a few.
+I am a 55-year-old male, and I may be stating the obvious when I say that your quality of life will suffer if you do not have good health. This is especially true in the second half of life. My goal is to have good health until the day that I die, which I [estimate](https://www.findmemore.com/posts/how-long-do-you-expect-to-live/) to be in about 27.5 years, give or take a few.
 
 I did make a mistake earlier in my life to ignore my health for the sake of more "urgent" matters such as working longer hours or enjoying the wrong foods or alcohol a little too much. I often went months without adequate sleep. A good weekend of sleep was all that I needed to recharge my batteries in my younger years. However, as I hit midlife, the years of neglect took their toll, and now I am in the process of trying to reverse the effects of this neglect.
 
