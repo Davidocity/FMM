@@ -1,5 +1,5 @@
 ---
-title: 'What is most important in the second half of life, health, wealth, or purpose?'
+title: What is most important in the second half of life, health, wealth, or purpose?
 date: '2020-12-13'
 tags:
   - health
